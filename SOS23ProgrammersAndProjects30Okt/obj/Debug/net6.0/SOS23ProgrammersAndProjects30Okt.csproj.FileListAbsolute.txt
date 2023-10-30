@@ -1,0 +1,14 @@
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\bin\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.exe
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\bin\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.deps.json
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\bin\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.runtimeconfig.json
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\bin\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.dll
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\bin\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.pdb
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.AssemblyInfoInputs.cache
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.AssemblyInfo.cs
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.dll
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\refint\SOS23ProgrammersAndProjects30Okt.dll
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.pdb
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\SOS23ProgrammersAndProjects30Okt.genruntimeconfig.cache
+C:\Users\nikla\source\repos\SOS23ProgrammersAndProjects30Okt\SOS23ProgrammersAndProjects30Okt\obj\Debug\net6.0\ref\SOS23ProgrammersAndProjects30Okt.dll
